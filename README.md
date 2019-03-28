@@ -4,7 +4,7 @@ A,D   - Move
 
 S     - Crouch
 
-Space - Jump
+Space,W - Jump
 
 E     - Shoot
 
